@@ -25,7 +25,3 @@ I kept the flow simple and presentation friendly:
 2. .venv\Scripts\Activate.ps1
 3. pip install -r requirements.txt
 4. streamlit run app.py
-
-## Writing Note
-
-I rewrote the notebook and README in a more direct first-person voice so it reads like my own project work, not a generic template.
